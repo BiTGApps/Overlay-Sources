@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="array" name="config_forceQueryablePackages" id="0x01070000" />
+</resources>

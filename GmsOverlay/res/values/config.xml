@@ -34,10 +34,5 @@
     <string name="config_devicePolicyManagement" translatable="false">com.google.android.apps.work.clouddpc:23962F4B43B9857638EA66F4D419518EAE282491ACDA4B94707BD59003C45E58</string>
     <string name="config_devicePolicyManagementUpdater" translatable="false">com.google.android.gms</string>
     <string name="config_persistentDataPackageName" translatable="false">com.google.android.gms</string>
-    <string name="config_defaultTextClassifierPackage" translatable="false">com.google.android.as</string>
-    <string name="config_defaultAppPredictionService" translatable="false">com.google.android.as/com.google.android.apps.miphone.aiai.app.AiAiPredictionService</string>
-    <string name="config_defaultContentSuggestionsService" translatable="false">com.google.android.as/com.google.android.apps.miphone.aiai.app.AiAiContentSuggestionsService</string>
-    <string name="config_defaultSystemCaptionsManagerService" translatable="false">com.google.android.as/com.google.android.apps.miphone.aiai.captions.SystemCaptionsManagerService</string>
-    <string name="config_defaultSystemCaptionsService" translatable="false">com.google.android.as/com.google.android.apps.miphone.aiai.captions.CaptionsService</string>
     <string name="metadata_sync_package" translatable="false">com.google.android.gms</string>
 </resources>
